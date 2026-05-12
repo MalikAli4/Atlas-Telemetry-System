@@ -1,4 +1,7 @@
 # Atlas Telemetry System
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Atlas%20Telemetry%20System&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=STM32%20Embedded%20Monitoring%20%7C%20Telemetry%20%7C%20Reliability%20Engineering&descAlignY=58&descSize=18" />
+</p>
 
 STM32-based embedded monitoring and telemetry platform focused on:
 - real-time environmental monitoring
