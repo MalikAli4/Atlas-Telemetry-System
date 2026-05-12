@@ -9,6 +9,36 @@
   <img src="https://img.shields.io/badge/I2C-Communication-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-Dashboard-yellow?style=for-the-badge&logo=python&logoColor=black" />
 </p>
+<p align="center">
+  🚧 Active Development • Embedded Systems Project • Daily Engineering Progress
+</p>
+---
+
+# Current Development Phase
+
+## Phase 1 — Embedded Firmware Foundation
+Current objectives:
+- STM32 environment setup
+- UART telemetry communication
+- firmware architecture planning
+- timer/interrupt foundation
+- repository structure and documentation
+
+---
+
+# Planned System Development Roadmap
+
+- [ ] STM32 firmware initialization
+- [ ] UART telemetry system
+- [ ] environmental sensor integration
+- [ ] timer interrupt scheduling
+- [ ] fault detection engine
+- [ ] warning/fault states
+- [ ] Python telemetry dashboard
+- [ ] telemetry logging system
+- [ ] architecture diagrams
+- [ ] demo videos
+- [ ] project website integration
 
 STM32-based embedded monitoring and telemetry platform focused on:
 - real-time environmental monitoring
