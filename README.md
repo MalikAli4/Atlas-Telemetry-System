@@ -3,6 +3,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Atlas%20Telemetry%20System&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=STM32%20Embedded%20Monitoring%20%7C%20Telemetry%20%7C%20Reliability%20Engineering&descAlignY=58&descSize=18" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/UART-Telemetry-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/I2C-Communication-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-Dashboard-yellow?style=for-the-badge&logo=python&logoColor=black" />
+</p>
+
 STM32-based embedded monitoring and telemetry platform focused on:
 - real-time environmental monitoring
 - telemetry transmission
